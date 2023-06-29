@@ -1,5 +1,5 @@
 # energyoptimisation
-machine learning for various solar systems to optimize battery capacity utilisation
+Machine learning for various solar systems to optimize battery capacity utilisation
 
 Solar Setting Evaluation Script
 
