@@ -1,0 +1,16 @@
+﻿Day,date,Temperature,Weather,Feels Like,Wind,Humidity,Chance,rainfall,cloud_cover,UV,Sunrise,Sunset
+Thu,29/06/23,19 / 13 °C,Mostly cloudy.,19 °C,24 km/h,53%,6%,-,0%,0 (Low),07:17,17:14
+Fri,30/06/23,19 / 12 °C,Sprinkles early. Mostly cloudy.,19 °C,35 km/h,55%,23%,0.9,20%,0 (Low),07:17,17:14
+Sat,01/07/23,21 / 10 °C,Sunny.,20 °C,6 km/h,47%,0%,-,0%,3 (Moderate),07:17,17:15
+Sun,02/07/23,20 / 12 °C,Sunny.,19 °C,11 km/h,60%,0%,-,0%,3 (Moderate),07:17,17:15
+Mon,03/07/23,24 / 10 °C,Afternoon clouds.,25 °C,8 km/h,41%,0%,-,0%,3 (Moderate),07:17,17:15
+Tue,04/07/23,17 / 12 °C,Sprinkles late. Overcast.,16 °C,43 km/h,55%,14%,0.3,20%,0 (Low),07:17,17:16
+Wed,05/07/23,14 / 9 °C,Light showers. Cloudy.,13 °C,14 km/h,62%,21%,7.8,40%,0 (Low),07:17,17:16
+Thu,06/07/23,17 / 9 °C,Mostly cloudy.,17 °C,31 km/h,50%,3%,-,0%,3 (Moderate),07:17,17:17
+Fri,07/07/23,19 / 9 °C,Decreasing cloudiness.,19 °C,11 km/h,41%,2%,-,0%,0 (Low),07:17,17:17
+Sat,08/07/23,21 / 11 °C,Sprinkles late. Increasing cloudiness.,20 °C,24 km/h,67%,40%,0.4,20%,0 (Low),07:16,17:18
+Sun,09/07/23,19 / 13 °C,Overcast.,18 °C,27 km/h,80%,42%,0.3,20%,0 (Low),07:16,17:18
+Mon,10/07/23,18 / 12 °C,Cloudy.,17 °C,17 km/h,86%,6%,-,0%,0 (Low),07:16,17:19
+Tue,11/07/23,19 / 12 °C,Broken clouds.,18 °C,23 km/h,73%,6%,-,0%,3 (Moderate),07:16,17:19
+Wed,12/07/23,19 / 12 °C,Mostly sunny.,18 °C,12 km/h,75%,6%,-,0%,3 (Moderate),07:15,17:20
+Thu,13/07/23,19 / 13 °C,Tstorms early. Morning clouds.,18 °C,11 km/h,83%,13%,0.2,20%,3 (Moderate),07:15,17:21
